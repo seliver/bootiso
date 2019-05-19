@@ -59,6 +59,7 @@ Go to the [flags](#flags) section to see the full list of actions and options.
 
 ### Quick install
 
+    On ubuntu, first install these depencencies: sudo apt install extlinux curl wimtools libwim15. Then:
     curl -L https://git.io/bootiso -O
     chmod +x bootiso
 
